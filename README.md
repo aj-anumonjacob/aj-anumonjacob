@@ -5,7 +5,7 @@
 ### **Full-Stack Software Engineer | Web & Mobile Application Developer**
 📍 **Dubai, UAE** &nbsp;•&nbsp; 🎓 **MCA (First Class with Distinction)** &nbsp;•&nbsp; 💼 **5+ Years of Experience**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-aj--anumonjacob.github.io-2563EB?style=for-the-badge)](https://aj-anumonjacob.github.io/Portfolio_Website/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-aj--anumonjacob.github.io-2563EB?style=for-the-badge)](https://aj-anumonjacob.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anumon_Jacob-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anumonjacob)
 [![Email](https://img.shields.io/badge/Email-anumonjacob24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anumonjacob24@gmail.com)
 
@@ -67,9 +67,9 @@ Results-driven **Software Engineer** with **5+ years of experience** designing, 
 | :--- | :--- | :--- |
 | 📱 **[HR Employee Self-Service App](https://github.com/aj-anumonjacob/hr-self-service-app)** | `Flutter` `Dart` `Laravel` `MySQL` `Firebase` | Cross-platform Android/iOS mobile app for GPS attendance, offline SQLite sync, multi-level leave approval workflows, biometric unlock, and Sanctum rotating tokens. |
 | 🖥️ **[IT Asset & Service Desk Portal](https://github.com/aj-anumonjacob/it-asset-service-desk)** | `PHP 8` `MySQL` `PWA` `AES-256-GCM` `RBAC` | End-to-end IT portal featuring hardware/software asset tracking, printable QR labels, helpdesk ticketing, automated cron expiry alerts, and an encrypted password vault. |
-| 📋 **[Tenant Portal Registration Tracker](https://github.com/aj-anumonjacob/tenant-portal-tracker)** | `React` `Vite` `PHP REST API` `MySQL EAV` | ClickUp-style workspace with dynamic custom fields (EAV architecture), drag-and-drop Kanban boards, rule-based smart analytics, and executive report exports. |
+| 📋 **[Tenant Portal Registration Tracker](https://github.com/aj-anumonjacob/tenant-portal-tracker)** | `React` `Vite` `PHP REST API` `MySQL EAV` | ClickUp-style workspace with dynamic custom fields (EAV architecture), drag-and-drop Kanban boards, rule-based smart analytics, and executive report exports. ([Live Demo](https://tenant-portal-tracker.vercel.app)) |
 | 🛒 **[Retail & Café POS System](https://github.com/aj-anumonjacob/retail-pos)** | `JavaScript` `Google Apps Script` `HTML5/CSS3` | Multi-store browser Point-of-Sale system with live stock tracking, credit customer ledgers, role-based PIN login, audit logs, and concurrency-safe transactions. |
-| 🌐 **[Developer Portfolio Website](https://github.com/aj-anumonjacob/Portfolio_Website)** | `HTML5` `CSS3` `Vanilla JS` | Fast, zero-dependency developer portfolio with dark/light themes, interactive code typing preview, and responsive glassmorphism UI. ([Live Site](https://aj-anumonjacob.github.io/Portfolio_Website/)) |
+| 🌐 **[Developer Portfolio Website](https://github.com/aj-anumonjacob/aj-anumonjacob.github.io)** | `HTML5` `CSS3` `Vanilla JS` | Fast, zero-dependency developer portfolio with dark/light themes, interactive code typing preview, and responsive glassmorphism UI. ([Live Site](https://aj-anumonjacob.github.io/)) |
 
 ---
 
